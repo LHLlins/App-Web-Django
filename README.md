@@ -1,3 +1,3 @@
 # App-Web-Django
 
-Aplicação desenvolvidad utilizando o framework Django.
+Aplicação desenvolvida utilizando o framework Django.
